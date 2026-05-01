@@ -4,6 +4,13 @@ A macOS menu-bar app that identifies the song playing through your microphone us
 
 Tap the tray icon (or press ⌥Space), hit "Listen", and Cue Mini will tell you what's playing.
 
+<img width="2700" height="1674" alt="IMG_2036" src="https://github.com/user-attachments/assets/06c4a484-b6c1-4833-aab2-e88ffc1a2cf3" />
+
+
+https://github.com/user-attachments/assets/4918bb59-719e-40a1-9490-beefc12252b5
+
+
+
 ## Requirements
 
 - macOS 14 (Sonoma) or later
