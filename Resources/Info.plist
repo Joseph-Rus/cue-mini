@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>CueMini</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.josephrussell.cuemini</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Cue Mini</string>
+    <key>CFBundleDisplayName</key>
+    <string>Cue Mini</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Cue Mini listens to your microphone to identify the song that's playing.</string>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>Cue Mini captures your Mac's audio output to identify the song that's playing. It does not record your screen.</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>© 2026 Joseph Russell</string>
+</dict>
+</plist>

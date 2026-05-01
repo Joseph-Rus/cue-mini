@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!--
+      Dev entitlements: no sandbox, no restricted entitlements.
+      This lets the app launch under ad-hoc signing so you can preview the UI.
+      ShazamKit calls will fail at runtime — that's expected without provisioning.
+      For distribution, use Resources/CueMini.entitlements instead.
+    -->
+</dict>
+</plist>

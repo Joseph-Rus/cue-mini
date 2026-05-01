@@ -1,0 +1,35 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# Build output
+build/
+release/
+*.app
+*.dmg
+*.zip
+
+# macOS
+.DS_Store
+*.local
+
+# Apple Developer artifacts — tied to a specific Apple Developer account.
+# Each developer building from source generates their own.
+*.provisionprofile
+*.cer
+*.p12
+*.certSigningRequest
+
+# IDE local config
+.vscode/
+
+# Environment overrides
+.env
+.env.local
