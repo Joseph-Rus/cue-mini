@@ -9,6 +9,8 @@ Tap the tray icon (or press ⌥Space), hit "Listen", and Cue Mini will tell you 
 
 https://github.com/user-attachments/assets/4918bb59-719e-40a1-9490-beefc12252b5
 
+DOWNLOAD NOW: https://github.com/Joseph-Rus/cue-mini/releases/tag/cue-mini
+
 
 
 ## Requirements
